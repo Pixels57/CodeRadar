@@ -37,4 +37,8 @@ npm start
 ```
 
 ## Snapshots
-![Alt text](https://drive.google.com/file/d/1ivhJEUIzvTcGDsz5vH9CjH_NGJS6WMAG/view?usp=drive_link)
+### Home page
+![Alt text](https://github.com/Pixels57/CodeRadar/blob/main/assets/Screenshot2025-04-22%20214002.png)
+
+### Add Programmer
+![Alt text](https://github.com/Pixels57/CodeRadar/blob/main/assets/Screenshot2025-04-22%20214029.png)
